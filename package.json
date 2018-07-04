@@ -1,12 +1,12 @@
 {
-  "name": "julycrud",
+  "name": "songsave",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Will Worth",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
